@@ -1,3 +1,8 @@
 # voice-recognition-app
 
-Just a fun with voice recognition app. It accepts certain commands please check read me file for it.
+Visit https://adityakadam1994.github.io/voice-recognition-app/
+
+# Accessible Commands
+- how are you / hello / good morning
+- how is the weather like / what is the weather report / weather
+- how old are you
